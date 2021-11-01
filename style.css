@@ -1,0 +1,16 @@
+h1 {
+    font-family:Arial, Helvetica, sans-serif
+  }
+  p {
+    font-family:'Courier New', Courier, monospace
+  }
+  body {
+    background-color: #eddcd2;
+  }
+  #estilo {
+    font-style: italic;
+  }
+  .equipe{font-size: 18px;}
+  .emocional{font-size: 17px;}
+  .organizada{font-size: 16px;}
+  .proativa{font-size: 15px;}
