@@ -6,11 +6,33 @@ h1 {
   }
   body {
     background-color: #eddcd2;
+    padding:2%;
   }
   #estilo {
     font-style: italic;
+    position: absolute;
+    top: 40%;
+    right:6%;
   }
+
+
   .equipe{font-size: 18px;}
   .emocional{font-size: 17px;}
   .organizada{font-size: 16px;}
   .proativa{font-size: 15px;}
+#Débora {
+  float: left;
+  height:380px;
+  padding: 10px;
+  background-color: rgb(151, 141, 140);
+}
+.image-container {
+  height: 400px;
+  position: relative;
+}
+.meuNome {
+ text-align: center;
+}
+ul li:nth-child(odd){
+ background-color: rgb(167, 145, 167);
+}
